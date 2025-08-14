@@ -8,7 +8,7 @@ This is the unofficial Data in Brief article template in Overleaf.
 
 ## 📄 Submission Workflow
 
-1. Comment out `\usepackage{lineno}`
+1. Comment out `\usepackage{lineno}` and other `\linenumbers` commands.
 2. Compile and download the PDF.
 3. Convert the PDF to Word.
 4. Enable line numbering in Word.
