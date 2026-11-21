@@ -2,7 +2,7 @@
 
 This is the unofficial Data in Brief article template in Overleaf.
 
-> **Important:** You must use `lualatex` or `xelatex` to compile this project. Other compilers like `pdflatex` may not work correctly.
+> **Important:** You must use `pdflatex` to compile this project. Other compilers like may not work correctly.
 
 [Open in Overleaf](https://www.overleaf.com/read/zpfnzsqjpdyb#b8967e)
 
